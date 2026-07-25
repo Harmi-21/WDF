@@ -1,4 +1,4 @@
 # WDF
-hey my name is hrm
+Hey my name is hrm.
 <br>
-how are you?
+How are you?
